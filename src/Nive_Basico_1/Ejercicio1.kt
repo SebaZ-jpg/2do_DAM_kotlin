@@ -1,4 +1,4 @@
-package Nive_Basico
+package Nive_Basico_1
 
 fun main() {
     val kilogramos = listOf(0, 5, 33, 100)

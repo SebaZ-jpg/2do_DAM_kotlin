@@ -1,4 +1,4 @@
-package Nive_Basico
+package Nive_Basico_1
 
 fun main() {
     val palabras = listOf("Lucía", "Alejandro", "Ana", "Marta", "Iván")

@@ -1,4 +1,4 @@
-package Nive_Basico
+package Nive_Basico_1
 
 fun categoria(edad: Int): String = when (edad) {
     in 0..12 -> "Niño"

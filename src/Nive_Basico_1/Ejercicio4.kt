@@ -1,7 +1,7 @@
-package Nive_Basico
+package Nive_Basico_1
 
 fun logLine(msg: String, level: String = "INFO", brackets: Boolean = false): String {
-    return if (brackets) "[$level] msg"else"level: $msg"
+    return if (brackets) "[$level] $msg" else "$level: $msg"
 }
 
 fun sumTo(start: Int = 1, end: Int): Int {

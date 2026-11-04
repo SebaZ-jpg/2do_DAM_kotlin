@@ -1,4 +1,4 @@
-package Nivel_Medio
+package Nivel_Medio_2
 
 // Recibe una cadena que puede ser nula y devuelve una edad válida
 // como Int; si no se puede interpretar o está fuera del rango, devuelve null.

@@ -1,4 +1,4 @@
-package Nivel_Medio
+package Nivel_Medio_2
 
 fun String.countVowels(): Int = count { it.lowercaseChar() in "aeiou" }
 
